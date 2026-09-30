@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://class-plus.co.kr/sitemap.xml
